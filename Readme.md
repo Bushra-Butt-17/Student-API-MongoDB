@@ -1,5 +1,5 @@
 
-
+<img src="https://github.com/user-attachments/assets/debd283a-2436-4c32-8cca-444c0a77c957" alt="Project Preview" width="100%">
 ---
 
 # 📚 Students Management System - Flask Web Application
