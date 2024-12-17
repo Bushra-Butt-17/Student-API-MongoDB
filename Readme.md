@@ -117,12 +117,11 @@ The app is **fully responsive** and provides a seamless experience on mobile dev
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://via.placeholder.com/600x400.png?text=Home+Page+Screenshot)
-![Delete-Alert](https://github.com/user-attachments/assets/3130ae93-5016-4b02-9fcf-0f1d1a72d86e)![Update-Form](https://github.com/user-attachments/assets/d176c471-60ff-44fd-8ccf-aae4aec96a05)
-![Students-Age](https://github.com/user-attachments/assets/ff3c27c2-cf95-4089-b618-c9d4e421f251)
 ![Main](https://github.com/user-attachments/assets/d1da93a5-8f59-4733-9c51-120fa33dd092)
+![Students-Age](https://github.com/user-attachments/assets/ff3c27c2-cf95-4089-b618-c9d4e421f251)
+
 ![Filter-by-Age](https://github.com/user-attachments/assets/396b7014-edb3-4f2e-b9b6-55f1f7efaed7)
-![Delete-Flash](https://github.com/user-attachments/assets/1d1bb215-225f-49c4-b41d-1e99689218bc)
+
 
 
 ![Actions](https://github.com/user-attachments/assets/81634c3f-873c-42c6-9df0-9b5a153d02d5)
@@ -133,7 +132,8 @@ The app is **fully responsive** and provides a seamless experience on mobile dev
 ### Add/Edit Student Form
 ![Add-Student](https://github.com/user-attachments/assets/fe816478-5d3a-4e32-a76c-b48c2a9869ea)
 ![Update-Success](https://github.com/user-attachments/assets/51894b36-f23b-4b18-aa26-e8a8135a5393)
-
+![Delete-Alert](https://github.com/user-attachments/assets/3130ae93-5016-4b02-9fcf-0f1d1a72d86e)![Update-Form](https://github.com/user-attachments/assets/d176c471-60ff-44fd-8ccf-aae4aec96a05)
+![Delete-Flash](https://github.com/user-attachments/assets/1d1bb215-225f-49c4-b41d-1e99689218bc)
 
 
 ## 📝 Contributing
