@@ -1,5 +1,6 @@
 <img src="https://github.com/user-attachments/assets/debd283a-2436-4c32-8cca-444c0a77c957" alt="Project Preview" width="100%">
 ---
+
 # 📚 Students Management System - Flask Web Application
 
 Welcome to the **Students Management System** built using **Flask**, **MongoDB**, and **Bootstrap**! 🚀 This project allows you to **Create**, **Read**, **Update**, and **Delete** student records through a user-friendly interface. Let's explore the details! 💻✨
